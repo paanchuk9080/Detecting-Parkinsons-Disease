@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # Detecting Parkinson’s Disease using Machine Learning
 
 Parkinson’s Disease (PD) is a progressive neurodegenerative disorder that affects movement, speech, and coordination due to the loss of dopamine-producing neurons in the brain. Early and accurate detection can significantly improve symptom management and quality of life.
